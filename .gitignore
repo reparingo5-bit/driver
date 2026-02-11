@@ -1,6 +1,5 @@
 node_modules/
-dist/
-server/database.db
 .env
 *.log
 .DS_Store
+package-lock.json

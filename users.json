@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2b$10$rKqFNXz0XW8P8vYqJ5LZHe0YJ8mJ0qF5Y5n5TqZtQ5Z5Z5Z5Z5Z5Z",
+      "role": "admin",
+      "name": "Admin User"
+    },
+    {
+      "id": 2,
+      "username": "partner",
+      "password": "$2b$10$rKqFNXz0XW8P8vYqJ5LZHe0YJ8mJ0qF5Y5n5TqZtQ5Z5Z5Z5Z5Z5Z",
+      "role": "partner",
+      "name": "Partner User"
+    }
+  ]
+}
