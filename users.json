@@ -3,7 +3,7 @@
     {
       "id": 1,
       "username": "admin",
-      "password": "$2b$10$rKqFNXz0XW8P8vYqJ5LZHe0YJ8mJ0qF5Y5n5TqZtQ5Z5Z5Z5Z5Z5Z",
+      "password": "$2a$12$Kh7DCNV8vT43QYhn8PiAieAjgtdJBjitchf43pc4GgsfMBa7tpd3.",
       "role": "admin",
       "name": "Admin User"
     },
