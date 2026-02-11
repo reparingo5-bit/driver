@@ -259,7 +259,4 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
   console.log(`Visit http://localhost:${PORT}`);
   console.log('');
-  console.log('Login credentials:');
-  console.log('Admin: username=admin, password=admin123');
-  console.log('Partner: username=partner, password=partner123');
 });
